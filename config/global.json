@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "pdfjsRichSampleOnParse-130827"
+        }, 
+        "pdfjsRichSampleOnParse-130827": {
+            "applicationId": "HvaSmDUGhvzi5ZjaZHlw8ibM8f7zzfizV8PJFBxP", 
+            "masterKey": "6XT8tuwfjdGlM50bGIOewbGHGs8dND2DEY3Hwndw"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.9"
+    }
+}
